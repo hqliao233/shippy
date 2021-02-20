@@ -8,7 +8,7 @@ import (
 
 	"github.com/micro/go-micro/v2"
 
-	pb "github.com/liaohq233/shippy/shippy-service-vessel/proto/vessel"
+	pb "github.com/hqliao233/shippy/shippy-service-vessel/proto/vessel"
 )
 
 // Repository Repository

@@ -4,8 +4,8 @@ import (
 	"context"
 	"log"
 
-	pb "github.com/liaohq233/shippy/shippy-service-consignment/proto/consignment"
-	"github.com/micro/go-micro/v2"
+	pb "github.com/hqliao233/shippy/shippy-service-consignment/proto/consignment"
+	micro "github.com/micro/go-micro/v2"
 )
 
 type repository interface {
