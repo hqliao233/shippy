@@ -1,4 +1,4 @@
-module github.com/liaohq233/shippy/shippy-cli-consignment
+module github.com/hqliao233/shippy/shippy-cli-consignment
 
 go 1.15
 
